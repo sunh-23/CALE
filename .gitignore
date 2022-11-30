@@ -1,0 +1,9 @@
+wandb
+
+# soft links
+data
+logs
+
+
+__pycache__
+
